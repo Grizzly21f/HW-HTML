@@ -7,6 +7,7 @@
     background-color: dodgerblue;
     text-align: center;
     color: white;
+    font-size: 40px;
 }
 
 .Mother {
@@ -23,7 +24,7 @@
     width: 100%;
     height: 300px;
     background-color: #2a2a92;
-
+    font-size: 20px;
 }
 .m2{
     margin: 0 25px 0 25px;
@@ -35,10 +36,11 @@
     display:flex;
     background-color:dodgerblue;
     text-align: center;
+
 }
 .txt{
     display: flex;
     align-items: center;
     color: white;
-    font-size: 20px;
+    font-size: 40px;
 }
