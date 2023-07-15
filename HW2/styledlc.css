@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    justify-content: center;
+    display: flex;
+    background-color: #000000;
+}
+
+header{
+    width: 1440px;
+    background-color: cornflowerblue;
+}
+.ma1n{
+    width: 1440px;
+    height: 484px;
+    background-color: #89cfe5;
+    background-image: url(killuamain.jpg);
+    background-size: cover;
+
+}
+.t1{
+    width: 586px;
+ }
+.img1{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.m1{
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    align-items: center;
+
+}
+.b1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: right;
+
+}
+
+.sc1{
+    width: 1440px;
+    height: 484px;
+    background-color: cornflowerblue;
+    display: flex;
+}
+
+.img2{
+    width: 285px;
+    height: 285px;
+    border-radius: 80%;
+    background: #C4C4C4;
+    margin: 100px;
+
+}
+
+.sc2{
+    width: 1440px;
+    height: 484px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img13{
+    width: 171px;
+    height: 335px;
+    margin-left: 180px;
+}
+.img3{
+    width: 171px;
+    height: 335px;
+    margin-right: 180px;
+}
+
+.sc3{
+    width: 1440px;
+    height: 484px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img4{
+    width: 132px;
+    height: 139px;
+    border-radius: 60%;
+    margin: 20px;
+}
+
+.txt{
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    height: 247px;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+footer{
+    width: 1440px;
+    height: 410px;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url("https://i.pinimg.com/originals/0f/69/30/0f6930af1d58950d1c34d1cf2c497b95.gif");
+    background-size: cover;
+}
+
+p:hover{
+
+}
+p{
+    width: 586px;
+    margin-top: 20px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+h1{
+    color: #ffffff;
+    font-family: 'Libre Franklin', sans-serif;
+
+}
+
+body{
+    margin: 0;
+}
+
