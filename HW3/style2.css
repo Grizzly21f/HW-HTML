@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+nav{
+    background-color: #999999;
+    width: 100vw;
+    height: 10vh;
+    color: white;
+    text-align: center;
+}
+div{
+    display: flex;
+    width: 100vw;
+}
+section {
+    background-color: #d7d6d6;
+    width: 69vw;
+    height: 80vh;
+    color: white;
+    text-align: center;
+}
+.t1{
+    background-color: #8e8c8c;
+}
+.t2{
+    background-color: #5d5d5d;
+}
+.t3{
+    background-color: #4a4a4a;
+}
+footer{
+    background-color: #979797;
+    width: 100vw;
+    height: 10vh;
+    color: white;
+    text-align: center;
+}
+
+.txt{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
