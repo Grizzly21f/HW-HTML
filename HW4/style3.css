@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+main{
+    display: flex;
+    justify-content:center;
+   flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+header{
+    background-color: #89cfe5;
+    width: 100vw;
+    height:40vh;
+}
+.News1{
+    background-color: #c6ecb2;
+    height: 60vh;
+    width: 10vw;
+}
+div{
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+article{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.Sponsor{
+    background-color: #be4d4d;
+    height:60vh;
+    width: 10vw;
+}
+footer{
+    background-color: aquamarine;
+    width: 100vw;
+    height:40vh;
+}
+.content ,.content2 {
+    width: 80vw;
+    height: 30vh;
+}
+.content2{
+    background-color: #89cfe5;
+}

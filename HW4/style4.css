@@ -1,0 +1,60 @@
+header{
+    background-color: #999999;
+    width: 100vw;
+    height: 25vh;
+    color: white;
+    text-align: center;
+}
+main{
+    background-color: lightblue;
+    width: 100vw;
+    height: 33vh;
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: #d7d6d6;
+    width: 70vw;
+    height: 20vh;
+    color: white;
+    text-align: center;
+}
+article{
+
+    background-color: #8e8c8c;
+    width: 30vw;
+    height: 30vh;
+    color: white;
+    text-align: center;
+}
+footer{
+    background-color: #5d5d5d;
+    width: 100vw;
+    height: 25vh;
+    color: white;
+    text-align: center;
+}
+.sa{
+    display: flex;
+
+}
+.as{
+    display: flex;
+    flex-direction: column;
+}
+.ass{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    margin: 0;
+}
+p {
+    margin: 0;
+
+}
+.txt{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

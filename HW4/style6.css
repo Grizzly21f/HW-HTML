@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    justify-content: center;
+    display: flex;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 37vw;
+    height: 85vh;
+
+}
+
+h1{
+    margin: 0;
+    color: #000;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.sc1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2vh;
+
+}
+.sc2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 30vh;
+
+}
+.dv{
+    margin-right:6.6vw ;
+}
+hr{
+    width: 35vw;
+    height: 0.01vh;
+}
+ul{
+
+    color: #000;
+    font-size:18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 3vh;
+}
+ul li{
+    padding: 0.1vh;
+}
+.dv1{
+    background: rgba(217, 217, 217, 0.30);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 34vw;
+    height: 40vh;
+    padding-bottom:0.2vw;
+    padding-top:0.04vw;
+}
+ol li{
+    padding: 0.2vh;
+    /*font-size:1.5vh ;*/
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}
