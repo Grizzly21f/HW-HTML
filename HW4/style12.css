@@ -1,0 +1,58 @@
+body{
+    margin:0;
+
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25vw;
+    height: 40vh;
+    background-color: white;
+}
+.line{
+    width: 10vw;
+    height: 2.5vh;
+    margin-top:3vh;
+    font-size: 1.5vh;
+}
+.line2{
+    width: 20.5vw;
+    height: 2.5vh;
+    margin-top: 3vh;
+    font-size: 1.5vh;
+}
+.butn{
+    width: 20.8vw;
+    height: 2.9vh;
+    font-size: 1.5vh;
+    background-color: gold;
+    border: 0.20vh solid goldenrod;
+    font-weight: 600;
+    margin-top: 0.5vw;
+}
+p{
+    font-size: 1.35vh;
+    margin: 0;
+}
+
+.txt {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5vh;
+
+}
+.clr{
+    color: #C4C4C4;
+}

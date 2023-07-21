@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+.w{
+    width:100vw;
+    height: 20vh;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: #878b8f;
+    text-align: center;
+    color: white;
+
+}
+
+.Mother {
+    width: 100vw;
+    height: 60vh;
+    display:flex;
+}
+.d1{
+    background-color: #999999;
+}
+.d2{
+    background-color: #737373;
+}
+.d3{
+    background-color: #565656;
+}
+.Mother div{
+    justify-content:space-around;
+    width: 100vw;
+    height: 60vh;
+
+
+}
+
+.kid{
+    justify-content:space-around;
+    width: 100vw;
+    height: 20vh;
+    display:flex;
+    background-color: #8797a9;
+    text-align: center;
+}

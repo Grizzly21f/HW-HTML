@@ -1,0 +1,65 @@
+body{
+    background-color: #4d9df8;
+    margin: 0;
+    font-family: 'Libre Franklin', sans-serif;
+}
+div{
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+
+}
+.txt{
+    display: flex;
+    margin-right: 4.3vw;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+}
+form{
+
+    width: 16vw;
+    height: 21vh;
+    margin: 0;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+.line{
+
+    box-shadow: inset 0 0 1px 0  ;
+    width: 12vw;
+    height: 2.5vh;
+    margin: 0.6vh 0;
+    border-width: 0.1vh;
+    padding-left: 1vh;
+    font-size: 1vh;
+}
+hr{
+    margin: 0;
+}
+.tw{
+    font-size: 1.5vh;
+    font-weight: 600;
+        margin: 0;
+}
+.sgp{
+
+    font-size: 1.5vh;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0.1vw;
+}
+.butn{
+    padding: 0.5vh;
+    font-weight: 750;
+    margin-top: 1vh;
+    margin-left: 7.8vw;
+    border: 0.15vh solid gold;
+    border-radius: 0.2vw;
+    font-size: 1vh;
+
+}
+
+
+
