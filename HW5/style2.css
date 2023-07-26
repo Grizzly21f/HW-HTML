@@ -63,6 +63,7 @@ main>div:nth-child(3n){
 }
 img{
     width: 3vw;
+    height: 6vh;
 }
 .new1,.new2,.new3{
     display: flex;

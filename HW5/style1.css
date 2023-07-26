@@ -5,7 +5,7 @@
 .cs2>ul>li:nth-child(odd){
     font-size: 22px;
 }
-.cs3>ul>li:nth-child(4n+2):after{
+.cs3>ul>li:nth-child(2n+4):after{
     content: '!';
 }
 .cs4>ul>li:last-child{

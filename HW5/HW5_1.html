@@ -94,26 +94,3 @@
 </html>
 
 
-<script>
-    var counter		= 1;
-    var NumberOfPics	= 2 + 1;
-    var nodeFavicon		= document.getElementsByTagName("link");
-
-    function animateFavicon() {
-
-        for (var i = 0; i < nodeFavicon.length; i++)
-        {
-            if( (nodeFavicon[i].getAttribute("rel") == "icon") || (nodeFavicon[i].getAttribute("rel") == "shortcut icon"))
-            {
-                nodeFavicon[i].setAttribute("href", "./fv/-" + counter + ".ico");
-            }
-        }
-        if (counter < NumberOfPics) {
-            setTimeout(animateFavicon,);
-            counter++;
-            if (counter == NumberOfPics) { counter = 1; }
-        }
-    }
-
-    animateFavicon();
-</script>
