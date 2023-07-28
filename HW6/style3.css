@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+header{
+    height: 30vh;
+    background-color: #89cfe5;
+    border: 1vh solid #ffffff;
+    box-sizing: border-box;
+}
+.mid1{
+    display: flex;
+}
+.mid2{
+    height: 70vh;
+    width: 70vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section{
+    height: 35vh;
+    width:23.3vw;
+    background-color: #c6ecb2;
+    border: 1vh solid #ffffff;
+    box-sizing: border-box;
+    border-top:none;
+}
+footer{
+    width: 30vw;
+    height: 70vh;
+    background-color:pink;
+    border: 1vh solid #ffffff;
+    box-sizing: border-box;
+    border-left: none;
+    border-top:none;
+
+}

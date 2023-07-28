@@ -1,0 +1,29 @@
+@media screen and (max-width: 790px) {
+
+
+    .mid1{
+        flex-direction: column;
+    }
+
+    .mid2,.mid3{
+        width: 100vw;
+    }
+
+    header{
+        height: 15vh;
+    }
+    .sc1{
+        height: 50vh;
+        width: 100vw;
+    }
+    .sc2 {
+        height: 20vh;
+        width: 33.3vw;
+    }
+    footer{
+        height: 15vh;
+        width: 100vw;
+        border: 1vh solid white;
+        border-top: none;
+    }
+}
