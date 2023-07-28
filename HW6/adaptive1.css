@@ -9,10 +9,11 @@
 
     .sc1{
         width: 100vw;
-        height: 50vh;
+        height: 40vh;
     }
     .sc2{
         width: 100vw;
-        height: 30vh;
+        height: 40vh;
+        border-left:1vh solid #ffffff;
     }
 }

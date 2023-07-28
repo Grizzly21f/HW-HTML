@@ -13,7 +13,7 @@ div{
 }
 .sc1{
     width: 70vw;
-    height: 80vh;
+    height: 70vh;
     background-color: #89cfe5;
     border: 1vh solid #ffffff;
     box-sizing: border-box;
@@ -21,7 +21,7 @@ div{
 }
 .sc2{
     width: 30vw;
-    height: 80vh;
+    height: 70vh;
     background-color:pink;
     border: 1vh solid #ffffff;
     box-sizing: border-box;
