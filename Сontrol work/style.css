@@ -960,7 +960,7 @@ p{
     width: 100vw;
     height: 383px;
     border-radius: 12px 12px 0px 0px;
-    border: 1px solid #dadada;
+    border: 1px solid #141414;
     background: #000508;
     display: flex;
     justify-content: center;
@@ -993,11 +993,10 @@ p{
 }
 .fot{
     display:flex;
-    width: 1100px;
+    width: 1400px;
     height: 221px;
-
     flex-shrink: 0;
-
+    margin-left: 300px;
 }
 .frm{
     display: flex;
@@ -1009,12 +1008,12 @@ p{
     padding: 2px 7px 0 7px;
 }
 .gp1{
-    gap: 309.547px;
+    width: 300px;
 }
 .solana{
     display: flex;
     width: 161px;
-    padding: 0px 48px 0px 20px;
+
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
@@ -1042,7 +1041,7 @@ p{
     margin:0;
     display: flex;
     width: 205px;
-    padding: 0px 47.547px 78px 20px;
+    padding: 0 0 78px 20px;
     flex-direction: column;
     align-items: flex-start;
     gap: 7.781px;
@@ -1088,6 +1087,5 @@ p{
     line-height: 24px; /* 160% */
     text-transform: uppercase;
     margin-top: 9px;
-
 
 }
